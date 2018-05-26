@@ -2,7 +2,7 @@
 
 Udacity Full Stack Web Developer Python Project. Generate a website from your Python code for a Movie Trailer website.
 
-## Code Explanation
+## Project contents and what do they do.
 
 media.py defines movie title, movie storyline, movie poster image, and movie trailer and calls webbrowser to open movie trailer URL.
 
@@ -13,6 +13,19 @@ fresh_tomatoes.py creates webpage (fresh_tomatoes.html) where you can see all mo
 ## Motivation
 
 To learn Python taught in my Udacity course.
+
+## How to Run Project
+
+Download the project zip file to you computer and unzip the file. Or clone this
+repository to your desktop.
+
+Open the text-based interface for your operating system. (Example: the command prompt in Windows).
+
+Navigate to the project directory and type in the following command:
+
+```bash
+python entertainment_center.py
+```
 
 ## Installation
 
